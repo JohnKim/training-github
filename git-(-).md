@@ -82,19 +82,19 @@ $ cat hello-world
 
 ### 7. Desktop Github 프로그램 사용하기
 
-https://desktop.github.com/ 에서 프로그램을 다운로드 받아 설치 합니다.
+[https://desktop.github.com/](https://desktop.github.com/) 에서 프로그램을 다운로드 받아 설치 합니다.
 
-Github Desktop 은 지금까지의 실습 내용을 GUI 환경에서 할 수 있는 프로그램입니다. 
+Github Desktop 은 지금까지의 실습 내용을 GUI 환경에서 할 수 있는 프로그램입니다.
 
 기존의 clone 해서 내려받은 프로젝트 폴더를 Drag&Drop 하여 볼 수 있습니다.
 
 또는 직접 Github Desktop 으로 clone 할 수 있습니다.
 
-이런 좋은 프로그램이 있었는데 왜 고생을 한 것일까요? 억울해 하지 않습니다. 반드시 커멘트창에서 사용했던 명령어에 익숙해지고, 이 프로그램을 사용하도록 합니다. 
+이런 좋은 프로그램이 있었는데 왜 고생을 한 것일까요? 억울해 하지 않습니다. 반드시 커멘트창에서 사용했던 명령어에 익숙해지고, 이 프로그램을 사용하도록 합니다.
 
-> Github Desktop 뿐 아니라 SourceTree 라는 GUI 프로그램도 많이 사용합니다. \(https://www.sourcetreeapp.com/\)
-
-
+> Github Desktop 뿐 아니라 SourceTree 라는 GUI 프로그램도 많이 사용합니다. \([https://www.sourcetreeapp.com/\](https://www.sourcetreeapp.com/\)\)
 
 
+
+_이제 git 다 배운 건가요? 아닙니다. 다음주 실습하면서 더 배울 예정입니다._
 

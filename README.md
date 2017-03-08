@@ -1,4 +1,4 @@
-# Github 사용하기 실습
+# &lt;1주&gt; Github 사용하기 실습
 
 강의 일시 : 2017.03.10\(금\) 오전 9시 ~ 12시
 
@@ -7,7 +7,7 @@
 ### **사전 실습 준비**
 
 1. **Github 계정 생성**  
-   [https://github.com/join](https://github.com/join) 에 접속하여 가입하게 되면, Verification email 이 발송됩니다.   
+   [https://github.com/join](https://github.com/join) 에 접속하여 가입하게 되면, Verification email 이 발송됩니다.  
    수신한 메일을 확인하여 인증받아야 합니다.
 
 2. **Git 설치**  
