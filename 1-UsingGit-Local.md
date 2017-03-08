@@ -63,7 +63,7 @@ $ git add README.md
 이제 commit 명령으로 Local Repository 에 커밋합니다.
 
 ```
-$ git commit -m "first commit!" 
+$ git commit -m "first commit!"
 ```
 
 ### 4. 상태를 확인하면서 두번째 Commit !
@@ -73,7 +73,7 @@ $ git commit -m "first commit!"
 먼저 현재 상태를 확인합니다.
 
 ```
-$ git status 
+$ git status
 ```
 
 파일을 하나 더 생성하고 add 합니다. \(역시 Atom 에디터를 사용해도 됩니다.\)
@@ -87,7 +87,7 @@ $ git add hello-world.txt
 그리고 다시 확인해서 add 명령으로 Staging Area 단계로 추가된 것을 확인할 수 있습니다.
 
 ```
-$ git status 
+$ git status
 ```
 
 이제 commit 명령으로 Local Repository 에 커밋하고, 커밋된 상태를 확인합니다.
@@ -101,7 +101,7 @@ $ git commit -m "second commit!"
 먼저 현재 상태를 확인합니다.
 
 ```
-$ git status 
+$ git status
 ```
 
 기존의 README.md 파일을 수정하도록 합니다.
@@ -139,10 +139,9 @@ $ vi test.txt
 테스트!!
 
 $ git commit -am 'create test.txt file'
-$ git shortlog 
+$ git shortlog
 ```
 
 -am 은 알아서 add 하고 메시지를 입력한다는 의미 입니다.
 
 shortlog 는 커밋된 파일이 많은 경우 간단하게 확인하려고 할때 자주 사용합니다.
-
