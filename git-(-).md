@@ -2,7 +2,13 @@
 
 이제까지는 PC 의 Local Repository 에 커밋까지 한 상태 입니다. 이제 Remote Repository 인 Github 에 소스를 올리는 실습을 진행 합니다.
 
-### 1. Github 에서 Repository 생성.
+### 1. Github 에서 Repository 생성
+
+![](/images/create-new-repository-1.png)
+
+생성하는 repository명\(프로젝트 명\)은 `training-github` 으로 합니다.
+
+![](/images/create-new-repository-2.png)
 
 ### 2. Github 원격 저장소에 올리기 \(push\)
 
@@ -92,9 +98,7 @@ Github Desktop 은 지금까지의 실습 내용을 GUI 환경에서 할 수 있
 
 이런 좋은 프로그램이 있었는데 왜 고생을 한 것일까요? 억울해 하지 않습니다. 반드시 커멘트창에서 사용했던 명령어에 익숙해지고, 이 프로그램을 사용하도록 합니다.
 
-> Github Desktop 뿐 아니라 SourceTree 라는 GUI 프로그램도 많이 사용합니다. \([https://www.sourcetreeapp.com/\](https://www.sourcetreeapp.com/\)\)
+> Github Desktop 뿐 아니라 SourceTree 라는 GUI 프로그램도 많이 사용합니다. \([https://www.sourcetreeapp.com](https://www.sourcetreeapp.com/\)\)\)
 
-
-
-_이제 git 다 배운 건가요? 아닙니다. 다음주 실습하면서 더 배울 예정입니다._
+_이제 git 다 배운 건가요? 아닙니다. 다음주 그리고 그다음주 계속 실습하면서 계속 배울 예정입니다._
 

@@ -9,13 +9,11 @@ Markdown 문법으로 문서를 작성하기 위해서는 웹서비스로 제공
 
 Github 의 README.md 파일은 Github 리파지토리를 열었을 때 가장 먼저 보이는 대표 문서 파일로, Markdown 문법으로 작성하도록 되어 있습니다. 주로 Github 리파지토리의 프로젝트 설명이나, 개발 및 실행 가이드가 작성됩니다. Github 에서 제공하고 있는 Markdown 문법 가이드를 통해 어렵지 않게 익힐 수 있습니다.
 
-* [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+* [https://guides.github.com/features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 
-본 실습 강의 자료 역시 Markdown 으로 작성되었고, GitBook \([https://www.gitbook.com\](https://www.gitbook.com\)\) 을 통해 온라인 및 다양한 포멧의 파일로 출판되도록 하였습니다.
+본 실습 강의 자료 역시 Markdown 으로 작성되었고, GitBook \([https://www.gitbook.com](https://www.gitbook.com\)\)\) 을 통해 온라인 및 다양한 포멧의 파일로 출판되도록 하였습니다.
 
-* https://github.com/JohnKim/training-github
-
-
+* [https://github.com/JohnKim/training-github](https://github.com/JohnKim/training-github)
 
 ### 1. 새로운 프로젝트 repository 생성하기
 
@@ -33,7 +31,7 @@ Github 에서 새로운 Repository 를 생성합니다.
 
 master branch 를 선택한 후 저장한 후 아래와 같은 URL 로 접속하면 README.md 로 작성한 파일을 웹사이로 볼 수 있습니다.
 
-[https://johnkim.github.io/resume/](https://johnkim.github.io/resume/)
+[https://johnkim.github.io/resume](https://johnkim.github.io/resume/)
 
 ### 2. resume 프로젝트 clone 하기
 
