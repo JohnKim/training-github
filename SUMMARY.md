@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Git 사용하기 \(Local\)](chapter1.md)
-* [Git 사용하기 \(Remote\)](git-\(-\).md)
+* [Using Git \(Local\)](chapter1.md)
+* [Using Git \(Remote\)](git-\(-\).md)
+* [Using Markdown](using-markdown.md)
 
