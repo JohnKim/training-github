@@ -2,6 +2,8 @@
 
 Github 은 원격 소스 저장소 중에 하나 입니다. 본인이 작업한 소스 파일을 Github 에 업로드하기 전에, PC 에서 프로젝트 폴더를 만들고, 파일을 생성해 커밋하는 부분 까지 실습 합니다.
 
+### 
+
 ### 1. Git 개발자 설정하기
 
 개발자 이메일을 설정합니다. 나중에 원격 저장소인 Github 에 업로드 하기 위하여  Github 가입했던 이메일 주소로 설정합니다.
@@ -24,6 +26,8 @@ $ git config user.name “John Kim”
 >
 > 만약 `git config` 명령 실행시 `fatal: not in a git directory` 에러가 나는 경우라면, 아래 `2.프로젝트초기화` 부터 하고, `git config` 를 실행합니다.
 
+### 
+
 ### 2. 프로젝트 초기화
 
 프로젝트를 시작하기 위하여 프로젝트 디렉토리를 생성하고, git 명령어로 초기화 합니다. 초기화라고 하는 것은 초기화한 디렉코리가 git 으로 관리되도록 하기 위함입니다.
@@ -42,6 +46,8 @@ $ pwd
 $ git init
 $ ls -al
 ```
+
+### 
 
 ### 3. 첫번째 Commit !
 
@@ -67,6 +73,8 @@ $ git add README.md
 ```
 $ git commit -m "first commit!"
 ```
+
+### 
 
 ### 4. 상태를 확인하면서 두번째 Commit !
 
@@ -97,6 +105,8 @@ $ git status
 ```
 $ git commit -m "second commit!"
 ```
+
+### 
 
 ### 5. 기존 파일 수정하여 세번째 Commit !
 
@@ -132,6 +142,8 @@ $ git commit -m 'update README.md'
 $ git log
 ```
 
+### 
+
 ### 6. 간편하게 네번째 Commit !
 
 README.md 파일을 다시한번 수정하도록 합니다.
@@ -147,4 +159,8 @@ $ git shortlog
 -am 은 알아서 add 하고 메시지를 입력한다는 의미 입니다. 기존의 수정된 파일만 add 하게 되는 것으로, **만약 새로 추가한 파일은 직접 add 해야 합니다.**
 
 shortlog 는 커밋된 파일이 많은 경우 간단하게 확인하려고 할때 자주 사용합니다.
+
+> 커밋 메시지에 Emoji 도 입력이 가능합니다. Emoji 목록은 http://www.webpagefx.com/tools/emoji-cheat-sheet 를 참조할 수 있습니다.
+
+
 

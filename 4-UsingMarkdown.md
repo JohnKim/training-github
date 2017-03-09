@@ -15,6 +15,8 @@ Github 의 README.md 파일은 Github 리파지토리를 열었을 때 가장 �
 
 * [https://github.com/JohnKim/training-github](https://github.com/JohnKim/training-github)
 
+### 
+
 ### 1. 새로운 프로젝트 repository 생성하기
 
 Github 에서 새로운 Repository 를 생성합니다.
@@ -32,6 +34,8 @@ Github 에서 새로운 Repository 를 생성합니다.
 master branch 를 선택한 후 저장한 후 아래와 같은 URL 로 접속하면 README.md 로 작성한 파일을 웹사이로 볼 수 있습니다.
 
 [https://johnkim.github.io/resume](https://johnkim.github.io/resume/)
+
+### 
 
 ### 2. resume 프로젝트 clone 하기
 

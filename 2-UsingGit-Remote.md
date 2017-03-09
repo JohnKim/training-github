@@ -2,6 +2,8 @@
 
 이제까지는 PC 의 Local Repository 에 커밋까지 한 상태 입니다. 이제 Remote Repository 인 Github 에 소스를 올리는 실습을 진행 합니다.
 
+### 
+
 ### 1. Github 에서 Repository 생성
 
 ![](/images/create-new-repository-1.png)
@@ -9,6 +11,8 @@
 생성하는 repository명\(프로젝트 명\)은 `training-github` 으로 합니다.
 
 ![](/images/create-new-repository-2.png)
+
+### 
 
 ### 2. Github 원격 저장소에 올리기 \(push\)
 
@@ -25,6 +29,10 @@ $ git push origin master
 ```
 
 이제 Github 웹사이트를 통해 커밋 이력과 현재 저장된 파일들을 확인합니다.
+
+![](/images/commit-history.png)
+
+### 
 
 ### 3. Github 에서 프로젝트 내려받기 \(clone\)
 
@@ -47,6 +55,8 @@ $ cd ..
 
 다시한번 README.md 파일을 수정하고  add, commit, push  를 실습해 봅니다.
 
+### 
+
 ### 4. 다른 개발자의 프로젝트를 Fork 해서 내려받아 수정하기
 
 옆사람의 Github 프로젝트에서 Fork 버튼을 눌러 자신의 Gitub 원격저장소로 복사합니다.
@@ -68,6 +78,8 @@ $ git commit -am 'update hello-world.txt'
 $ git push
 ```
 
+### 
+
 ### 5. Pull Request 요청하기
 
 Pull Request 란 다른 개발자의 프로젝트를 수정한 것을 반영하도록 요청하는 것입니다.
@@ -75,6 +87,8 @@ Pull Request 란 다른 개발자의 프로젝트를 수정한 것을 반영하�
 New pull request 버튼을 눌러 내용을 확인하고 Create pull request 버튼을 눌러 PR 을 요청합니다.
 
 다른 개발자가 자신의 프로젝트의 파일을 수정한것을 pull request 내용을 보고 확인한 후 수락할 수 있습니다.
+
+### 
 
 ### 6. 변경된 소스 파일 다시 내려받기 \(pull\)
 
@@ -87,6 +101,8 @@ $ cd training-github
 $ git pull
 $ cat hello-world
 ```
+
+### 
 
 ### 7. Desktop Github 프로그램 사용하기
 
