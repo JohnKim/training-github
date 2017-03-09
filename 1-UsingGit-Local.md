@@ -21,8 +21,8 @@ $ git config user.name “John Kim”
 > `git config --global --unset credential.helper`
 >
 > `git config --global --unset credential.helper`
-
-> 만약 `git config` 명령 실행시 `fatal: not in a git directory` 에러가 나는 경우라면, 아래 2.프로젝트초기화 부터 하고, `git config` 를 실행합니다.
+>
+> 만약 `git config` 명령 실행시 `fatal: not in a git directory` 에러가 나는 경우라면, 아래 `2.프로젝트초기화` 부터 하고, `git config` 를 실행합니다.
 
 ### 2. 프로젝트 초기화
 
@@ -134,17 +134,17 @@ $ git log
 
 ### 6. 간편하게 네번째 Commit !
 
-새로 파일을 만들어서 실습해 봅니다.
+README.md 파일을 다시한번 수정하도록 합니다.
 
 ```
-$ vi test.txt
-테스트!!
+$ vi README.md
+난 개발이 정말 재미 있다!! 진심이다!!
 
-$ git commit -am 'create test.txt file'
+$ git commit -am 'update README.md again.'
 $ git shortlog
 ```
 
--am 은 알아서 add 하고 메시지를 입력한다는 의미 입니다.
+-am 은 알아서 add 하고 메시지를 입력한다는 의미 입니다. 기존의 수정된 파일만 add 하게 되는 것으로, **만약 새로 추가한 파일은 직접 add 해야 합니다.**
 
 shortlog 는 커밋된 파일이 많은 경우 간단하게 확인하려고 할때 자주 사용합니다.
 
