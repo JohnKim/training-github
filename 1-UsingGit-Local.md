@@ -22,6 +22,8 @@ $ git config user.name “John Kim”
 >
 > `git config --global --unset credential.helper`
 
+> 만약 `git config` 명령 실행시 `fatal: not in a git directory` 에러가 나는 경우라면, 아래 2.프로젝트초기화 부터 하고, `git config` 를 실행합니다.
+
 ### 2. 프로젝트 초기화
 
 프로젝트를 시작하기 위하여 프로젝트 디렉토리를 생성하고, git 명령어로 초기화 합니다. 초기화라고 하는 것은 초기화한 디렉코리가 git 으로 관리되도록 하기 위함입니다.
@@ -145,3 +147,4 @@ $ git shortlog
 -am 은 알아서 add 하고 메시지를 입력한다는 의미 입니다.
 
 shortlog 는 커밋된 파일이 많은 경우 간단하게 확인하려고 할때 자주 사용합니다.
+
