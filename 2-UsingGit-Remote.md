@@ -2,7 +2,7 @@
 
 이제까지는 PC 의 Local Repository 에 커밋까지 한 상태 입니다. 이제 Remote Repository 인 Github 에 소스를 올리는 실습을 진행 합니다.
 
-### 
+![](/images/git-flow-left-2.png)
 
 ### 1. Github 에서 Repository 생성
 
@@ -91,6 +91,8 @@ New pull request 버튼을 눌러 내용을 확인하고 Create pull request 버
 ### 
 
 ### 6. 변경된 소스 파일 다시 내려받기 \(pull\)
+
+![](/images/git-flow-right.png)
 
 Github 원격 저장소에 있는 자신의 프로젝트가 Pull Request 를 수락하면서 변경되었을 것입니다.
 

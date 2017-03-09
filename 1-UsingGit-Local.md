@@ -2,7 +2,7 @@
 
 Github 은 원격 소스 저장소 중에 하나 입니다. 본인이 작업한 소스 파일을 Github 에 업로드하기 전에, PC 에서 프로젝트 폴더를 만들고, 파일을 생성해 커밋하는 부분 까지 실습 합니다.
 
-### 
+![](/images/git-flow-left-1.png)
 
 ### 1. Git 개발자 설정하기
 
@@ -160,7 +160,7 @@ $ git shortlog
 
 shortlog 는 커밋된 파일이 많은 경우 간단하게 확인하려고 할때 자주 사용합니다.
 
-> 커밋 메시지에 Emoji 도 입력이 가능합니다. Emoji 목록은 http://www.webpagefx.com/tools/emoji-cheat-sheet 를 참조할 수 있습니다.
+> 커밋 메시지에 Emoji 도 입력이 가능합니다. Emoji 목록은 [http://www.webpagefx.com/tools/emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet) 를 참조할 수 있습니다.
 
 
 
